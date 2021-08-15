@@ -1,8 +1,12 @@
 ### Just a YouTuber doing something weird.
 
-A multifunctional programmer (?) working on different stuff like scripting, modding and many more.
+A multifunctional programmer working on different stuff like scripting, modding and many more.
 
 Pinned repositories are mostly Android stuff.
+
+I work at amyROM as RHM (Right Hand Man), Stellar OS as Seed maintainer and GNU/Weeb as tester.
+
+Don't forget to embrace E-mpire. >:3
 
 Also, just in case you wonder, here are my stats (Credit to @00p513-dev)
 
