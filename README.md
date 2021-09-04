@@ -4,7 +4,9 @@ A multifunctional programmer working on different stuff like scripting, modding 
 
 Pinned repositories are mostly Android stuff.
 
-I work at amyROM as RHM (Right Hand Man), Stellar OS as Seed maintainer and GNU/Weeb as tester.
+Head of <a href="https://github.com/teos-dev">teos-dev</a> and developer of <a href="https://github.com/Stellar-Weeb">Stellar OS Weeb Edition</a>.
+
+I also work at amyROM as RHM (Right Hand Man), Stellar OS as Seed maintainer and GNU/Weeb as tester.
 
 Don't forget to embrace E-mpire. >:3
 
