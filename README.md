@@ -6,7 +6,7 @@ Pinned repositories are mostly Android stuff.
 
 Head of <a href="https://github.com/teos-dev">teos-dev</a> and developer of <a href="https://github.com/Stellar-Weeb">Stellar OS Weeb Edition</a>.
 
-I also work at amyROM as RHM (Right Hand Man), Stellar OS as Seed maintainer and GNU/Weeb as tester.
+I also work at <a href="https://github.com/amyROM">amyROM</a> as RHM (Right Hand Man), <a href="https://github.com/Stellar-OS">Stellar OS</a> as Seed maintainer and <a href="https://github.com/GNUWeeb">GNU/Weeb</a> as tester.
 
 Don't forget to embrace E-mpire. >:3
 
