@@ -1,10 +1,10 @@
-### A coder, tester, YouTuber, simp, or however you put it.
+### A developer, coder, hacker, tester, or however you put it.
 
 A multifunctional programmer working on different stuff like scripting, modding and many more.
 
 Pinned repositories are mostly Android stuff.
 
-Head of <a href="https://github.com/teos-dev">teos-dev</a>, developer of <a href="https://github.com/Stellar-Weeb">Stellar OS Weeb Edition (RIP)</a>, <a href="https://github.com/ProjectKasumi">Project Kasumi</a> and simping for <a href="https://twitch.tv/caramelvt">Caramel Kaiteki</a>.
+Head of teos-dev, MVP of <a href="https://github.com/RedmiNote10S>Redmi Note 10S development</a>, developer of <a href="https://github.com/Stellar-Weeb">Stellar OS Weeb Edition (RIP)</a> and <a href="https://github.com/ProjectKasumi">Project Kasumi</a>.
 
 I also work at <a href="https://git.halogenos.org/halogenOS">halogenOS</a> as co-developer, <a href="https://github.com/amyROM">amyROM</a> as RHM (Right Hand Man), and <a href="https://github.com/GNUWeeb">GNU/Weeb</a> as tester.
 
