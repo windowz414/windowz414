@@ -15,10 +15,10 @@ Stats
 -----
 
 <a href="https://github.com/windowz414">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=windowz414&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/windowz414" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=windowz414&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/windowz414" />
 </a>
 <a href="https://github.com/windowz414">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windowz414&langs_count=14&theme=nord&layout=compact" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=windowz414&langs_count=14&theme=nord&layout=compact" />
 </a>
 <a href="https://github.com/windowz414">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=windowz414&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
