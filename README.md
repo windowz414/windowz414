@@ -1,5 +1,5 @@
-A developer, coder, hacker, tester, or however you put it.
-----------------------------------------------------------
+Curious AOSP maintainer working on and contributing to various projects!
+------------------------------------------------------------------------
 
 A college student working on different stuff like scripting and modding.
 
